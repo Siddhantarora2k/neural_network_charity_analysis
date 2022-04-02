@@ -9,13 +9,10 @@ The purpose of this analysis was to create a neural network model on a data wher
 Before Optimization
 
 Hidden layer 1 = 90
-
-hidden layer 2 = 2
 <img width="1440" alt="Screen Shot 2022-04-02 at 4 47 02 PM" src="https://user-images.githubusercontent.com/91028094/161400731-70695fc2-9f07-4190-b3d5-fabdd385e741.png">
 
 After Optimization
 
-Hidden layer 1 = 
 <img width="1440" alt="Screen Shot 2022-04-02 at 4 47 15 PM" src="https://user-images.githubusercontent.com/91028094/161400735-fd376934-c290-4a4f-9542-ccf9a9848925.png">
 
 ---------------------------
