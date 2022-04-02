@@ -1,7 +1,7 @@
 # neural_network_charity_analysis
 
 # Overview
-The purpose of this analysis was to create a neural network model on a data where the we can predict which companies are most likely to succed if funded.
+The purpose of this analysis was to create a neural network model on a data where we can predict which companies are most likely to succed if funded.
 
 ----------------------------
 
